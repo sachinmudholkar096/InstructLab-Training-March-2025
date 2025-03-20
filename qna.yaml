@@ -1,0 +1,85 @@
+created_by: goelraman82
+version: 1
+domain: NYSDOT(New York State Department of Transportation)
+document_outline:
+  This document is intended to assist non New York State Department of Transportation Local Project Sponsors, municipalities, Non-governmental organizations (NGOs), and their consultants in the steps,
+activities, approvals, and other requirements needed to ensure that Federally Aided projects are developed, designed, and constructed in accordance with Federal and State requirements.
+seed_examples:
+  - context: |
+      The Procedures for Locally Administered Federal Aid Projects (PALAP) is intended to assist non New York State Local Project Sponsors, municipalities, Non-governmental organizations (NGOs) who seek federal funding through
+      the Federal Highway Administration (FHWA) , as well as state funding from New York State. The PALAP aims to provide an overview of the processes, procedures, documentation, authorizations, approvals, and certifications required
+      throughout the scoping, design, construction, and maintenance of transportation-related projects. While all attempts have been made to create a manual as comprehensive as possible, the dynamics of federal and state policy make it
+      reasonable to expect that the reader will need to have other references at hand as well.NYSDOT developed the procedures in cooperation with FHWA and representatives of the NYS County Highway Superintendents
+      Association (NYSCHSA) and other external stakeholders. These organizations administer locally administered federal and state-aided transportation projects.Periodic updates are necessary to reflect changes in laws, rules, regulations, and executive orders, along with the institutional knowledge gained in the
+      evolving practice of non NYSDOT administered federal and state aid transportation projects. Revision dates can typically be found in the footer of each chapter.
+    questions_and_answers:
+      - question: |
+          How do I get assistance for NYSDOT transportation projects design standards?
+        answer: |
+          To get assistance with NYSDOT transportation projects design standards, you should access the The Procedures for Locally Administered Federal Aid Projects Manual (PALAP). It is intended to assist non New York State Department of Transportation Local Project Sponsors, municipalities, Non-governmental organizations (NGOs), and their consultants in the steps,
+activities, approvals, and other requirements needed to ensure that Federally Aided projects are developed, designed, and constructed in accordance with Federal and State requirements.
+      - question: |
+          What roles and responsibilities are defined for different organization involved in executing the transportation projects.
+        answer: |
+          Local project sponsor (Sponsor) prepares contract documents using New York State Department of Transportation (NYSDOT) Specifications, Standard Sheets, plans, procedure manuals, and/or other design & construction documents; and these documents reference NYSDOT performing review & approval during design, or on-site inspection during construction; it is to be understood that such activities are actually the responsibility of the Sponsor's NYSlicensed design professional1.The Sponser must identify and document in both the Project and Construction Management plans who will be performing these functions when NYSDOT will not be. Contact the Regional Local Project Liaison (RLPL) for assistance defining these roles.
+      - question: |
+          What are the NYSDOT design standards based on?
+        answer: |
+          NYSDOT design standards are based generally on American Association of State Highway and Transportation Officials (AASHTO) standards and have been approved by the Federal Highway Administration (FHWA) for use on all Federal-aid projects.         
+  - context: |
+      Commodities is a  raw material that can be bought and sold. Examples of commodities
+      include stone, culvert pipe, concrete, guiderail, etc.
+    questions_and_answers:
+      - question: |
+          What is a Commodity?
+        answer: |
+          A raw material that can be bought and sold. 
+      - question: |
+          Can you give an example of commodity ?
+        answer: |
+          Examples of commodities include stone, culvert pipe, concrete, guiderail, etc.
+  - context: |
+      Condemnation is the legal process by which municipalities under the jurisdiction of the
+      New York State Supreme Court exercise the power of eminent domain
+      to acquire real property.
+    questions_and_answers:
+      - question: |
+          How can condemnation is done ?
+        answer: |
+          It is the legal process by which municipalities under the jurisdiction of the
+          New York State Supreme Court exercise the power of eminent domain
+          to acquire real property.
+      - question: |
+          Who is excesizing the condemnation power ?
+        answer: |
+          municipalities under urisdiction of the
+          New York State Supreme Court 
+  - context: |
+      The Administering Agency is the state, county, city, town, village, or other public agency, 
+      public authority, or nonprofit organization authorized and designated under its agreement with 
+      NYSDOT to design, acquire ROW, advertise, open bids, award, and administer contracts for federal 
+      or state aid transportation projects. The Administering Agency may also be referred to as the local 
+      public agency, agency, local government, subrecipient, grantee, municipality, owner, or Sponso
+    questions_and_answers:
+      - question: |
+          What is the role of the Administering Agency in transportation projects?
+        answer: |
+          The Administering Agency is authorized and designated under its agreement with NYSDOT to design, 
+          acquire ROW, advertise, open bids, award, and administer contracts for federal or state aid 
+          transportation projects.
+      - question: |
+          What are other names for the Administering Agency?
+        answer: |
+          The Administering Agency may also be referred to as the local public agency, agency, 
+          local government, subrecipient, grantee, municipality, owner, or Sponsor.
+      - question: |
+          Can a nonprofit organization be an Administering Agency?
+        answer: |
+          Yes, a nonprofit organization can be an Administering Agency if authorized and designated under its agreement with NYSDOT.
+document:
+  repo: https://github.com/sachinmudholkar096/InstructLab-Training-March-2025
+  commit: main
+  patterns:
+    - 2024TIPGuidebook.md
+    - PLAFAP.md
+    - Chapter1.md
